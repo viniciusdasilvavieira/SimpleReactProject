@@ -1,5 +1,7 @@
 # ProcessoSeletivoReact
 
+Autor: Vinícius da Silva Vieira
+
 Instalação:
 
 Não possuo muita experiência com react então não sei de boas formas de compartilhar o projeto, colocar ele por completo no github me soou ruim

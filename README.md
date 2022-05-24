@@ -1,8 +1,7 @@
 # ProcessoSeletivoReact
 
 Instalação:
-basta apenas instalar React, e router dom do react
-então npx create-react-app e npm i react-router-dom ou npm install react-router-dom
+basta apenas instalar React, e router dom do react (npm i react-router-dom ou npm install react-router-dom)
 
 Informação complementar:
 Estagiei como back-end PHP dev por 5 meses, mas mexi com React um pouco e por isso

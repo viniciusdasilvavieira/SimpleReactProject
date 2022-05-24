@@ -1,7 +1,14 @@
 # ProcessoSeletivoReact
 
 Instalação:
-basta apenas instalar React, e router dom do react (npm i react-router-dom ou npm install react-router-dom)
+Não possui muita experiência com react então não sei de boas formas de compartilhar o projeto, colocar ele por completo no github me soou ruim
+porque a pasta "node_modules" é enorme, então só fiz o upload da pasta src com os arquivos únicos do meu projeto.
+
+Portanto, para a instalação, é necessário:
+- Instalar React e criar uma aplicação base com o comando de prompt Node "npx create-react-app"
+- substituir a pasta src da aplicação pela src do meu repositório
+- Instalar router dom do react no projeto (npm i react-router-dom ou npm install react-router-dom)
+- rodar o projeto com o comando "npm start"
 
 Informação complementar:
 Estagiei como back-end PHP dev por 5 meses, mas mexi com React um pouco e por isso

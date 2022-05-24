@@ -1,7 +1,7 @@
 # ProcessoSeletivoReact
 
 Instalação:
-Não possui muita experiência com react então não sei de boas formas de compartilhar o projeto, colocar ele por completo no github me soou ruim
+Não possuo muita experiência com react então não sei de boas formas de compartilhar o projeto, colocar ele por completo no github me soou ruim
 porque a pasta "node_modules" é enorme, então só fiz o upload da pasta src com os arquivos únicos do meu projeto.
 
 Portanto, para a instalação, é necessário:

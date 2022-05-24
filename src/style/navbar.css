@@ -1,0 +1,17 @@
+#navbar {
+    padding: 16px 0;
+    margin-bottom: 32px;
+}  
+.options-navbar-desk {
+    display: flex;
+    list-style: none;
+    gap: 70px;
+}  
+.options-navbar-desk li a{
+    color: rgb(40%, 40%, 60%);
+    text-transform: uppercase;
+}  
+.options-navbar-desk li a:hover{
+    cursor: pointer;
+    color: rgb(70%, 70%, 80%);
+}

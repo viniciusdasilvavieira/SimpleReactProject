@@ -1,6 +1,7 @@
 # ProcessoSeletivoReact
 
 Instalação:
+
 Não possuo muita experiência com react então não sei de boas formas de compartilhar o projeto, colocar ele por completo no github me soou ruim
 porque a pasta "node_modules" é enorme, então só fiz o upload da pasta src com os arquivos únicos do meu projeto.
 
@@ -11,6 +12,7 @@ Portanto, para a instalação, é necessário:
 - rodar o projeto com o comando "npm start"
 
 Informação complementar:
+
 Estagiei como back-end PHP dev por 5 meses, mas mexi com React um pouco e por isso
 decidi usar React aqui e sem fazer a parte de back-end. Apesar de ter experiência com back-end
 eu não tenho familiaridade com .net, e apesar de eu não ser nem um pouco contra aprender .net,
